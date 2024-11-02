@@ -3,7 +3,7 @@ package app;
 public class Main {
     public static void main(String[] args) {
 
-        Borey.practice11();
+        Borey.practice12();
     }
 
 }
